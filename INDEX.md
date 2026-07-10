@@ -39,3 +39,11 @@ All paths are relative to the repository root.
   - `prompts/2026-07-07/chatgpt-5.5-thinking/developer-1.md`
   - `prompts/2026-07-07/chatgpt-5.5-thinking/combined.md`
   - `prompts/2026-07-07/chatgpt-5.5-thinking/metadata.md`
+
+## 2026-07-09 — GPT-5.6 Sol
+
+- Thinking: High
+- Completeness: Curated
+- Files:
+  - `prompts/2026-07-09/gpt-5.6-sol/system.md`
+  - `prompts/2026-07-09/gpt-5.6-sol/developer.md`

@@ -34,10 +34,13 @@ Included dates:
 - 2026-06-12 — ChatGPT 5.5 Thinking Extended
 - 2026-07-06 — ChatGPT 5.3 Mini, partial
 - 2026-07-07 — ChatGPT 5.5 Thinking
+- 2026-07-09 — GPT-5.6 Sol (thinking: high)
 
 ## Completeness Labels
 
 `Unknown` means the capture is preserved as-is, but completeness is not guaranteed.
 
 `Partial` means the capture is visibly incomplete, truncated, or expanded from a partial output.
+
+`Curated` means the capture intentionally omits identified audit-only or non-archival messages.
 
