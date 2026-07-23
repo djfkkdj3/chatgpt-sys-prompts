@@ -1,8 +1,6 @@
 # ChatGPT Prompt Snapshots
 
-👋 Hi, you probably came here because you wanted the system prompts.
-
-This repo archives ChatGPT prompt snapshots by date and model. It is for people who want the actual captured instructions, not a thread summary, not a screenshot, and not someone saying “basically it said…”
+This repo archives ChatGPT prompt snapshots by date and model
 
 The archive includes every prompt layer available for a snapshot:
 
